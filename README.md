@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋 I’m Hamza, a DevOps & Cloud Engineer who loves automation, clean infrastructure, and solving real-world problems in the cloud.<br><br>I work on designing scalable cloud systems, automating deployments, and improving developer workflows using modern DevOps practices. My goal is simple: make infrastructure boring, reliable, and easy to scale.<br><br>Always curious. Always improving.
+Hey 👋 I’m Hamza, a DevOps & Cloud Engineer who loves automation, clean infrastructure, and solving real world problems in the cloud.<br><br>I work on designing scalable cloud systems, automating deployments, and improving developer workflows using modern DevOps practices. My goal is simple: make infrastructure boring, reliable, and easy to scale.<br><br>Always curious. Always improving.
 
 
 # 💻 Tech Stack:
