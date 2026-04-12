@@ -60,15 +60,3 @@ Always curious. Always improving.
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzanaeemm&color=0e75b6)
 
 ---
-
-### Troubleshooting tips
-- **Make sure your GitHub profile is public.**
-- **If a card shows an error, try removing `count_private=true`** from the query string; some services fail when private counts are requested.
-- **If a service is down** the image will not render. Try switching between `vercel.app` and alternative endpoints or wait a few minutes and reload.
-- **Cache:** the `cache_seconds` parameter above reduces rate pressure and helps with transient failures.
-
----
-
-If you want, I can:
-- add a small GitHub Action to periodically warm the cache for these cards,
-- or provide an alternate set of endpoints if any of the above services are blocked for you.
